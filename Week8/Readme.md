@@ -1,6 +1,6 @@
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -16,23 +16,33 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: SQL Injection (SQLi)
+GIF
+![](https://github.com/JannatulFBrishty/Web-Security/blob/master/Week8/SQL%20injection.gif)
 
-Vulnerability #2: __________________
-
+Vulnerability #2:Session Hijacking/Fixation
+GIF
+![](https://github.com/JannatulFBrishty/Web-Security/blob/master/Week8/Session%20HijackingFixation.gif)
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1:Username Enumeration
+GIF
+![](https://github.com/JannatulFBrishty/Web-Security/blob/master/Week8/user%20enumeration.gif)
 
-Vulnerability #2: __________________
-
+Vulnerability #2: Cross-Site Scripting (XSS)
+GIF
+![](https://github.com/JannatulFBrishty/Web-Security/blob/master/Week8/Cross-Site%20Scripting.gif)
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1:Cross-Site Request Forgery (CSRF)
+GIF
+![](https://github.com/JannatulFBrishty/Web-Security/blob/master/Week8/Cross-Site%20Request%20Forgery.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: Insecure Direct Object Reference (IDOR)
+GIF
+![](https://github.com/JannatulFBrishty/Web-Security/blob/master/Week8/Insecure%20Direct%20Object%20Reference.gif)
 
 
 ## Notes
