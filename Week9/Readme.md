@@ -12,10 +12,15 @@ GIF
 Kept on having error while downloadig the json file.
 
 ERROR MESSAGE
+
 unrecognized arguments
+
 --db
+
 mnemosyne
+
 --collection(--did you mean "project"?)
+
 session
 
 ### Unresolved Questions
